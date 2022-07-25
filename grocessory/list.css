@@ -1,0 +1,59 @@
+
+@media screen and (min-width:1824px)
+{
+    body{
+        background: black;
+    }
+
+}
+@media screen and (min-width:1224px){
+    body{
+        background: yellow;
+    }
+}
+@media screen and (min-width:320px){
+    body{
+        background: pink;
+    }
+}
+@media image and (min-width:320px){
+    body{
+        background-image:url("imp.webp");
+    }
+}
+
+
+.img{
+    background-image: url(imp.webp);
+    height:50vh;
+    width:100vw;
+    background-size: cover;
+}
+ul{
+    list-style-type: none;
+    margin:10px;
+    padding:10px;
+    overflow: hidden;
+    font-size: 30px;
+}
+li{
+    float:left;
+}
+li a{
+    display: inline-block;
+    color: rgb(138, 17, 17);
+    text-align: center;
+    padding: 50px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: red ;
+}
+h1{
+    font: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:brown;
+}
+h2{
+    display:inline-block;
+}

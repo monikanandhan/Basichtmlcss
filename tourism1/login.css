@@ -1,0 +1,16 @@
+.rand{
+    background-image: url(HD-wallpaper-paper-boat-globe-travel-concepts-earth-tourism.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+button{
+    font-size: 30px;
+    text-decoration: none;
+    background-color: rgb(155, 31, 52);
+}
+div{
+    border:5px solid black;
+    margin-left: 300px;
+    margin-right:300px ;
+    
+}

@@ -1,0 +1,28 @@
+*{
+    color:rgb(170, 36, 36);
+   padding:20px;
+    margin:20px;
+}
+p{
+color:aqua;
+
+}
+#error
+{
+    color:red;
+}
+.head{
+    color:blue
+}
+ul.menu{
+    padding:0px;
+    list-style: none;
+    background-color: blueviolet;
+}
+ul.menu li{
+    display:inline;
+}
+ul.menu li a{
+    margin:10px;
+    text-decoration: none;
+}

@@ -1,0 +1,70 @@
+ul{
+    list-style-type: none;
+    margin:10px;
+    padding:10px;
+    overflow: hidden;
+    font-size: 30px;
+}
+.img{
+    background-image: url(images.jpg);
+    height:50vh;
+    width:100vw;
+    background-size: cover;
+
+}
+li{
+    float:left;
+}
+li a{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 50px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color: red ;
+}
+.holy{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+.falls{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+.malls{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+
+}
+.park{
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+
+}
+h1{
+    font: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:brown;
+}
+h2{
+    text-decoration: underline;
+    color:brown;
+}
+.img1{
+    height:300px;
+    width:350px;
+}

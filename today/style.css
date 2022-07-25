@@ -1,0 +1,96 @@
+.h1{
+    color:rgb(115, 115, 185);
+    text-align: centerjustify;
+    text-decoration: underline;
+    text-transform:lowercase ;
+}
+h1{
+    color:blue;
+    
+    text-align: center;
+    text-decoration: underline;
+    text-transform:capitalize ;
+    
+}
+p{
+    color:rgb(15, 15, 97);
+    text-align:justify;
+    text-transform:lowercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+body{
+    background-color: aqua;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 15px;
+}
+.head{
+    color:rgb(185, 138, 49);
+    text-align:right;
+    text-transform:lowercase;
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium;
+}
+img{
+    height:100vh;
+    width: 100vw;
+    display:block;
+    margin-left: auto;
+   margin-right: auto;
+   
+    
+}
+button{
+    display: block;
+    background-color: rgb(190, 31, 92);
+    margin-left: auto;
+   margin-right: auto;
+}
+.picture{
+    
+    width: 50%;
+    display: block;
+   margin-left: auto;
+   margin-right: auto;  
+}
+.card{
+    color:rgb(185, 138, 49);
+    text-align:center;
+    font-weight: lighter;
+    background-color: rgb(184, 181, 32);
+    font-size:medium;
+    height: 50vh;
+    width: 50vw;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+    margin-left: 25px ;
+    border-style: double;
+    border-width: 10px;
+    border-radius: 15px;
+}
+#head1{
+    color:rgb(202, 20, 81);
+    text-align:justify;
+    font-weight: lighter;
+    
+    font-size:large;
+   
+}
+#head2{
+    color:rgb(128, 82, 14);
+    text-align:justify;
+    font-weight:bolder;
+    
+    font-size:large;
+}
+.bgcard{
+    height: 100vh;
+    background-image:url("download.jfif");
+    background-size:contain;
+}
