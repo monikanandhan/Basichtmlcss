@@ -1,0 +1,14 @@
+p::first-line{
+    color:red;
+    font-variant: small-caps;
+}
+p::first-letter{
+    color:black;
+    font-variant: small-caps;
+}
+p::before{
+    content: url("download.jpg");
+}
+p::after{
+    content: url("download.jpg");
+}
